@@ -1,0 +1,11 @@
+#tabuada
+def tabuada(a,b):
+    print("---Mini Tabuada---")
+    print("Soma: ",a+b)
+    print("Multiplicação: ",a*b)
+    print("Difereça: ",a-b)
+    print("Divisão: ",a/b)
+    
+a=int(input("1º núm: "))
+b=int(input("2º núm: "))
+tabuada(a,b)
